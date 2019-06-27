@@ -1,0 +1,117 @@
+
+.navbar-collapse.collapse
+{
+background-color:#158D6A;
+
+}
+.navbar-default .navbar-nav>li>a 
+{
+font-weight: bold;
+color:#fff;
+}
+/*navbar background bold-color in box*/
+.navbar-default .navbar-nav>li>a:hover 
+{
+margin:0px;
+color:#158D6A;
+background-color:#213837;
+}
+.navbar
+{
+margin-bottom: 0px;
+}
+
+/*code for footer*/
+
+.title1
+
+#head_dash1
+{
+	background-color:#6B76B2;
+	color:#FFF;
+	height:76px;
+}
+/*headinf Nirmal Society*/
+
+.dashfooter
+{
+background-color:#6B76B2;    
+}
+
+
+.sidebar .widget {
+    display: block;
+    float: left;
+    height: 100%;
+    margin-bottom: 30px;
+    position: relative;
+    width: 100%;
+}
+
+.sidebar .widget ul.arrows_list{
+    padding: 0px;
+    margin: 0px;
+    float: left;
+    width: 100%;
+}
+.sidebar .widget ul.arrows_list li{
+    list-style:none;
+    border-bottom:1px solid #f2f2f2;
+}
+.sidebar .widget ul.arrows_list li a {
+    color: #000;
+    font-size: 12px;
+    line-height: 30px;
+    font-weight: 800;
+}
+.sidebar .widget ul.arrows_list li a:hover, .sidebar .widget ul.arrows_list1 li a:hover i {
+    color:#fff;
+}
+
+.sidebar .widget ul.arrows_list i {
+    margin-right: 5px;
+    color:#000;
+
+}
+/*Code for Dashbord-sub-menus only*/
+.dash1
+{
+/*padding-left: 50px;*/
+margin-left: 31px;
+}
+
+/*code for dashbord Menu-Head Color*/
+.colordash
+{
+background-color: red;
+}
+
+/*End Code for  Menus & Sub-Menues*/
+/*Dashbord pannel*/
+#pannl-dash2
+{
+    background-color: #6B76B2;
+    padding-top: 1px;
+}
+
+#stacked-menu {
+width: 190px;
+float: left;
+position: static;
+padding-left: 0;
+padding-right: 0;
+}
+
+#stacked-menu {
+background-color: #f2f2f2;
+border-style: solid;
+border-color: #ccc;
+border-width: 0 1px 0 0;
+}
+
+.breadcrumb
+{
+    margin-left: -34px;
+    margin-right: -14px;  
+}
+
